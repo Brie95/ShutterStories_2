@@ -12,6 +12,6 @@ The Quartz deployment has been refreshed.
 
 - [[camera-equipment/index|Camera Equipment]]
 - [[photo-editing/index|Photo Editing]]
-- [[photography-techniques/index|Photography Techniques]]
+- [[index/index|Photography Techniques]]
 - [[portrait-photography/index|Portrait Photography]]
 - [[travel-photography/index|Travel Photography]]
