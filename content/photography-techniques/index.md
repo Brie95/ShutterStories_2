@@ -1,5 +1,5 @@
 ---
-title:Photography Techniques
+title: Photography Techniques
 ---
 ## The Category 02 category index page
 
