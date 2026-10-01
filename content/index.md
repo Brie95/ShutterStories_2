@@ -2,7 +2,7 @@
 title: ShutterStories77
 ---
 
-# Welcome to ShutterStories77
+# Welcome to ShutterStories_2
 
 This knowledge base explores my photography journey — from camera gear to editing techniques and creative storytelling.
 
