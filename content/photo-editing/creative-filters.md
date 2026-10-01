@@ -1,3 +1,8 @@
+---
+title: Creative Filters
+date: 2026-09-30
+---
+
 # Creative Filters
 
 Filters add style, emotion, and personality to your photos. They can transform a simple image into something cinematic or nostalgic.

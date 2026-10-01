@@ -1,3 +1,28 @@
+---
+title: Photography Overview
+date: 2026-09-30
+---
+
+# Photography
+Photography is the art of capturing light to create meaningful, expressive images. It blends creativity and technique, allowing photographers to tell stories, preserve memories, and explore the world through visual expression.
+
+## Types of Photography
+Photography includes many genres, each offering a unique perspective and purpose. Some styles focus on people, others on places, objects, or everyday life.
+
+### Common Photography Styles
+- Portrait photography  
+- Landscape photography  
+- Travel photography  
+- Street photography  
+- Documentary photography  
+
+## When to Use Different Techniques
+Different situations call for different approaches. Lighting, composition, and camera settings all influence how an image feels and what it communicates.
+
+> “Photography is the pause button for life — a way to hold onto moments that matter.”
+
+https://upload.wikimedia.org/wikipedia/commons/3/3f/Camera_lens_example.jpg
+
 # Photography
 
 Photography is the art of capturing light to create images that tell a story, preserve a moment, or express a creative idea. It spans countless styles and techniques, from portraits and landscapes to travel, documentary, and artistic experimentation. Whether using a smartphone or a professional camera, photography allows people to explore the world visually and share their perspective with others.
