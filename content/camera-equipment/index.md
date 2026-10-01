@@ -1,6 +1,14 @@
 ---
 title: "---\r\nCamera Equipment\r\n---"
 ---
+## Embedded Image
+
+![[assets/FamilyPhoto.JPG]]
+
+## Embedded PDF
+
+![[assets/The dPS Ultimate Guide to Photography.pdf]]
+
 ## The Category 01 category index page
 
 ### What is this page?
