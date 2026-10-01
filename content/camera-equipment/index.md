@@ -1,16 +1,6 @@
 ---
 title: "---\r\nCamera Equipment\r\n---"
 ---
-## Embedded Image
-
-![[assets/FamilyPhoto.JPG]]
-
-## Embedded PDF
-
-![[assets/The dPS Ultimate Guide to Photography.pdf]]
-
-## The Category 01 category index page
-
 ### What is this page?
 
 This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
