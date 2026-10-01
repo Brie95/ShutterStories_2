@@ -2,14 +2,13 @@
 ---
 title: Photo Editing
 ---
-
-## Editing Guides
+# Photo Editing
 
 - [[basic-editing-workflow]]
 - [[color-correction-basics]]
 - [[retouching-techniques]]
 - [[creative-filters]]
-- [[advanced-editing]]
+- [[advanced-editing-tools]]
 
 ---
 Return to the [[index]]
