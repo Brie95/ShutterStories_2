@@ -28,4 +28,4 @@ Filters work best when they enhance your story rather than overpower it.
 
 > “Filters are creative seasoning — a little goes a long way.”
 
-See also: [[basic-editing-workflow]] and [[advanced-editing-tools]].
+See also: [[basic editing workflow]] and [[advanced-editing-tools]].

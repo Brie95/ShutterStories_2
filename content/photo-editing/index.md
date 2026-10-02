@@ -3,10 +3,10 @@ title: Photo Editing
 ---
 # Photo Editing
 
-- [[basic-editing-workflow]]
-- [[color-correction-basics]]
+- [[basic editing workflow]]
+- [[color correction basics]]
 - [[retouching-techniques]]
-- [[creative-filters]]
+- [[creative filters]]
 - [[advanced-editing-tools]]
 
 - ## Related Categories

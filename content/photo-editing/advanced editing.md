@@ -28,7 +28,7 @@ Local edits target specific areas of your photo using brushes, masks, or gradien
 
 > “Advanced editing is where technical skill meets artistic vision.”
 
-See also: [[retouching-techniques]] and [[creative-filters]]
+See also: [[retouching-techniques]] and [[creative filters]]
 
 
 ## Additional Resources

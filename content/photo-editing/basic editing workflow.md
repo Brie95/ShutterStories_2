@@ -28,4 +28,4 @@ Global edits affect the entire image. These include exposure, contrast, white ba
 
 > “Editing is not about changing reality — it’s about revealing the story already inside the image.”
 
-See also: [[color-correction-basics]] and [[retouching-techniques]].
+See also: [[color correction basics]] and [[retouching-techniques]].

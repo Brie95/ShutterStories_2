@@ -28,4 +28,4 @@ Most editing apps include sliders for temperature, tint, vibrance, and saturatio
 
 > “Color is the silent narrator of every photograph.”
 
-See also: [[basic-editing-workflow]] and [[creative-filters]].
+See also: [[basic editing workflow]] and [[creative filters]].

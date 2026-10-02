@@ -1,51 +1,34 @@
 ---
-title: Photography Overview
-date: 2026-09-30
+title: ShutterStories Knowledge Base
+date: 2026-10-01
 ---
 
-# Photography
-Photography is the art of capturing light to create meaningful, expressive images. It blends creativity and technique, allowing photographers to tell stories, preserve memories, and explore the world through visual expression.
+Welcome to **ShutterStories**, a photography knowledge base designed to help learners understand the tools, techniques, and creative decisions behind compelling images. This site brings together equipment guides, editing workflows, portrait strategies, travel photography insights, and foundational concepts that support photographers at every skill level.
 
-## Types of Photography
-Photography includes many genres, each offering a unique perspective and purpose. Some styles focus on people, others on places, objects, or everyday life.
+ShutterStories is organized into clear categories, each containing interconnected pages that build on one another. Whether you're exploring camera gear, learning new techniques, or studying how lighting affects a portrait, every section is designed to guide you through photography with clarity and purpose.
 
-### Common Photography Styles
-- Portrait photography  
-- Landscape photography  
-- Travel photography  
-- Street photography  
-- Documentary photography  
+## Explore the Knowledge Base
 
-## When to Use Different Techniques
-Different situations call for different approaches. Lighting, composition, and camera settings all influence how an image feels and what it communicates.
+### [[camera-equipment]]
+Learn about camera bodies, lenses, lighting tools, tripods, stabilizers, and storage essentials. This section explains how equipment influences image quality and creative control.
 
-> “Photography is the pause button for life — a way to hold onto moments that matter.”
+### [[photography-techniques]]
+Discover the core techniques that shape strong photography, including composition, lighting, depth of field, perspective, and exposure.
 
-https://upload.wikimedia.org/wikipedia/commons/3/3f/Camera_lens_example.jpg
+### [[portrait-photography]]
+Understand how to capture personality, emotion, and presence through posing, lighting, environment, and lens choice.
 
-# Photography
+### [[travel-photography]]
+Explore how to photograph cities, landscapes, culture, and movement while traveling. Includes examples from Miami, San Diego, and Houston.
 
-Photography is the art of capturing light to create images that tell a story, preserve a moment, or express a creative idea. It spans countless styles and techniques, from portraits and landscapes to travel, documentary, and artistic experimentation. Whether using a smartphone or a professional camera, photography allows people to explore the world visually and share their perspective with others.
+### [[photo-editing]]
+Learn how to enhance images through color correction, retouching, cropping, and editing workflows.
 
-## Types of Photography
+### [[photography-overview]]
+Build foundational knowledge about the history of photography, exposure basics, camera functions, and major photography styles.
 
-Photography includes a wide range of genres, each with its own purpose and approach. Some focus on people, others on places, objects, or events. Many photographers blend styles depending on the story they want to tell.
+---
 
-## When to Use Different Techniques
+This knowledge base represents a complete, interconnected system of photography resources. Each page links to related topics, creating a smooth learning experience and demonstrating how equipment, technique, and creativity work together to produce meaningful images.
 
-Choosing the right technique depends on lighting, subject, and mood. Composition, exposure, and timing all play a role in shaping the final image.
-
-`https://upload.wikimedia.org/wikipedia/commons/3/3f/Camera_lens_example.jpg` [(upload.wikimedia.org in Bing)](https://www.bing.com/search?q=%22https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F3f%2FCamera_lens_example.jpg%22&utm_source=copilot.com "www.bing.com")
-
-- Portrait photography
-    
-- Landscape photography
-    
-- Travel photography
-    
-- Street photography
-    
-- Documentary photography
-    
-
-“Photography is a way of feeling, of touching, of loving.”
+To view external sources used throughout the site, visit [[references]].

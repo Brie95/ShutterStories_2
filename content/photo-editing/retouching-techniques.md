@@ -26,4 +26,4 @@ Distracting elements like trash cans, stray hairs, or background clutter can be 
 
 > “Retouching should be invisible — when done well, viewers only notice the story.”
 
-See also: [[color-correction-basics]] and [[advanced-editing-tools]].
+See also: [[color correction basics]] and [[advanced-editing-tools]].
