@@ -1,5 +1,4 @@
 ---
----
 title: Photo Editing
 ---
 # Photo Editing
