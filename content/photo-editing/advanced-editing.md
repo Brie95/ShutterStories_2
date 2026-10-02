@@ -25,4 +25,9 @@ Local edits target specific areas of your photo using brushes, masks, or gradien
 
 See also: [[retouching-techniques]] and [[creative-filters]]
 
+
+## Additional Resources
+
 ![[../assets/Photography.pdf]]
+
+This PDF provides a beginner-friendly overview of photography concepts including exposure, lighting, composition, and basic editing workflows. It’s a great supplemental resource for anyone learning photo editing.
