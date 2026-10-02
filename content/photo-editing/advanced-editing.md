@@ -1,3 +1,8 @@
+---
+title: advanced-editing
+date: 2026-10-01
+---
+
 # Advanced Editing Tools
 
 Once you master the basics, advanced tools help you refine your images with precision. These tools give you full control over lighting, color, and detail.

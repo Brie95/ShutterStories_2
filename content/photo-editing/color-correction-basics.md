@@ -1,3 +1,8 @@
+---
+title: color-correction-basics
+date: 2026-10-01
+---
+
 # Color Correction Basics
 
 Color correction ensures your photo looks natural and balanced. It’s one of the most important steps in photo editing because color affects mood, realism, and viewer perception.

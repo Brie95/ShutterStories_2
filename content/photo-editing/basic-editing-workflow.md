@@ -1,3 +1,8 @@
+---
+title: basic-editing-workflow
+date: 2026-10-01
+---
+
 # Basic Editing Workflow
 
 Photo editing begins with a clear, repeatable workflow. Whether you’re using Lightroom, Photoshop, or a mobile app, the goal is to enhance your image without losing its natural feel. A good workflow helps you stay organized and ensures consistent results across your portfolio.

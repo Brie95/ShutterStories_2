@@ -1,3 +1,8 @@
+---
+title: retouching-techniques
+date: 2026-10-01
+---
+
 # Retouching Techniques
 
 Retouching is the art of refining small details to enhance your subject. It’s commonly used in portrait photography but applies to any image where distractions need removal.
